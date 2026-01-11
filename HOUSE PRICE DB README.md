@@ -1,4 +1,4 @@
-**HOUSE PRICE FORECASTING DASHBOARD, breaking down the key metrics and what they reveal about the dataset:**
+**HOUSE PRICE FORECASTING DASHBOARD breaking down the key metrics and what they reveal about the dataset:**
 ________________________________________
 **Area by Parking**
 •	Parking availability strongly influences property counts. 
